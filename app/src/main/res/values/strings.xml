@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Parcelable</string>
+
+    <string name="tv_name">Name: </string>
+    <string name="tv_grade">Grade: </string>
+    <string name="tv_id">Id: </string>
+    <string name="btn_continue">Continue</string>
+</resources>
